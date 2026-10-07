@@ -1,7 +1,12 @@
 <div align="center">
   
 # Nombre del proyecto nuestro
-## Hecho por: Ricardo Toro, Juan David Alvarez, Andres Moncada y Esteban Romero
+|  Nombre | Apellido | 
+|---------|----------|
+|Ricardo     | Toro|
+|Juan David   | Alvarez  |
+|Andres     | Moncada|
+|Esteban   | Romero  |
 </div>
 
 ***Idea del proyecto***
