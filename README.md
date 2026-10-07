@@ -8,6 +8,8 @@
 
 ***Porque es importante en la ciencia de datos***
 
+> *Este proyecto nuestro esta relacionado al proyecto de Chris Moody llamado "Popgot"*
+
 # Popgot
 ***Descripción del proyecto***
 
@@ -26,7 +28,7 @@ Demuestra la extracción de datos web en tiempo real, creando un modelo de clasi
 
 </div>
 
-# Metodologia
+***Metodologia***
 - Popgot encuentra inflación por contracción oculta y calcula precios unitarios reales en:
   - Amazon
   - Walmart
