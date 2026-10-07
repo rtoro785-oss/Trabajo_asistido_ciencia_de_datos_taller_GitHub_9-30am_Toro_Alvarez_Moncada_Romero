@@ -27,7 +27,10 @@ Demuestra la extracción de datos web en tiempo real, creando un modelo de clasi
   - Walmart
   - Costco
   - Target
-- Limpia catalogos desordenados con canales LLM que analizan el texto del producto, leen las fotos y normalizan los datos.
+- Limpia catalogos desordenados con canales LLM que:
+  - Analizan el texto del producto
+  - Leen las fotos
+  - Normalizan los datos
 - La IA rastrea miles de SKU
 - Desglosa listas de ingredientes
 - Genera guias de compras que muestran ahorros del 40%+
