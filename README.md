@@ -1,9 +1,14 @@
 <div align="center">
   
-# Popgot
+# Nombre del proyecto nuestro
 ## Hecho por: Ricardo Toro, Juan David Alvarez, Andres Moncada y Esteban Romero
 </div>
 
+***Idea del proyecto***
+
+***Porque es importante en la ciencia de datos***
+
+# Popgot
 ***Descripción del proyecto***
 
 Popgot es un proyecto hecho por Chris Moody que es un agente de compras con IA que ahorra dinero a familias y pequeñas empresas en lo basico.
@@ -37,10 +42,3 @@ Demuestra la extracción de datos web en tiempo real, creando un modelo de clasi
 
 > chrisemoody.com
 
-<p align="center" width ="100%">
-
-
-  <video src="https://github.com/user-attachments/assets/2a32e420-792f-4d44-9130-e306ad4e6896" width="80%" controls></video>
- 
-  
-</p>
