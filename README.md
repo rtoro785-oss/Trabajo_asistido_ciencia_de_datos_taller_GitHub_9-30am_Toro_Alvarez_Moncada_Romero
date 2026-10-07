@@ -34,7 +34,11 @@ Demuestra la extracción de datos web en tiempo real, creando un modelo de clasi
 </div>
 
 # Metodologia
-- Popgot encuentra inflación por contracción oculta y calcula precios unitarios reales en Amazon, Walmart, Costco y Target.
+- Popgot encuentra inflación por contracción oculta y calcula precios unitarios reales en:
+  - Amazon,
+  - Walmart,
+  - Costco
+  - Target
 - Limpia catalogos desordenados con canales LLM que analizan el texto del producto, leen las fotos y normalizan los datos.
 - La IA rastrea miles de SKU
 - Desglosa listas de ingredientes
