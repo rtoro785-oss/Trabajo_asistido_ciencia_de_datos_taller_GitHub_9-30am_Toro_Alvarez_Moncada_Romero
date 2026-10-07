@@ -37,3 +37,8 @@ Demuestra la extracción de datos web en tiempo real, creando un modelo de clasi
 
 > chrisemoody.com
 
+<p align="center" width ="100%">
+
+  <video src="popgot.mp4" width="80%" controls></video>
+  
+</p>
