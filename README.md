@@ -40,9 +40,6 @@ Demuestra la extracción de datos web en tiempo real, creando un modelo de clasi
 <p align="center" width ="100%">
 
 
-
-
-
   <video src="https://github.com/user-attachments/assets/2a32e420-792f-4d44-9130-e306ad4e6896" width="80%" controls></video>
  
   
