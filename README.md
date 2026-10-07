@@ -25,6 +25,7 @@ Por otra parte limpia catálogos desordenados con pipelines LLM que analizan el 
 Hacer que las compras transparentes y confiables sean la norma, el equivalente a Wirecutter para los productos básicos diarios.
 
 ***Modo de investigación profunda***
+
 Demuestra la extracción de datos web en tiempo real, creando un modelo de clasificación sobre la marcha para consultas específicas y generando automáticamente una hoja de cálculo completa con datos estructurados e información relevante.
 <div align="center">
   
