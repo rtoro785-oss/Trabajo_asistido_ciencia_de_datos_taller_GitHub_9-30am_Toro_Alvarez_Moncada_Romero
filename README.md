@@ -39,6 +39,6 @@ Demuestra la extracción de datos web en tiempo real, creando un modelo de clasi
 
 <p align="center" width ="100%">
 
-  <video src="popgot.mp4" width="80%" controls></video>
+  <video src="https://github.com/rtoro785-oss/Trabajo_asistido_ciencia_de_datos_taller_GitHub_9-30am_Toro_Alvarez_Moncada_Romero/raw/refs/heads/main/popgot.mp4" width="80%" controls></video>
   
 </p>
