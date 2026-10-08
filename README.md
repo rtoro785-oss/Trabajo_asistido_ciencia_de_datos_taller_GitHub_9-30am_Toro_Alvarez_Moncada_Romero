@@ -12,7 +12,7 @@
 
 ***Descripción del proyecto***
 
-Popgot es un proyecto hecho por Chris Moody que es un agente de compras con IA que ahorra dinero a familias y pequeñas empresas en lo basico.
+Popgot es un proyecto de Chris Moody, científico de datos y emprendedor en machine learning (antes creó Style Shuffle en Stitch Fix). Lo define como un agente de compras con inteligencia artificial que ayuda a familias y pequeños negocios a ahorrar en productos básicos, por ejemplo crema dental, cápsulas de detergente o jabón líquido para manos.
 
 ***Objetivo***
 
