@@ -14,6 +14,10 @@
 
 Popgot es un proyecto de Chris Moody, científico de datos y emprendedor en machine learning (antes creó Style Shuffle en Stitch Fix). Lo define como un agente de compras con inteligencia artificial que ayuda a familias y pequeños negocios a ahorrar en productos básicos, por ejemplo crema dental, cápsulas de detergente o jabón líquido para manos.
 
+***Problema que resuelve***
+
+Cuando el consumidor compra artículos de uso diario, le cuesta comparar precios reales entre tiendas. Los empaques cambian de tamaño, existe la "reduflación" (shrinkflation: el producto trae menos cantidad por el mismo precio) y cada tienda presenta la información de forma distinta. Para atacar ese problema, Popgot detecta la reduflación oculta y calcula el precio unitario real en Amazon, Walmart, Costco, Target y otras tiendas.
+
 ***Objetivo***
 
 Hacer que las compras transparentes y confiables sean la norma, el equivalente a Wirecutter para los productos básicos diarios, Popgot promete:
@@ -65,6 +69,9 @@ El agente verifica esos requisitos en miles de millones de productos, de modo qu
 - La IA rastrea miles de SKU
 - Desglosa listas de ingredientes
 - Genera guias de compras que muestran ahorros del 40%+
+
+***Arquitectura tecnologica***
+El backend corre sobre Cloudflare Workers, Supabase, ClickHouse y Modal, que soportan los rastreos masivos, la clasificación estructurada con LLMs y las integraciones de afiliados. El modelo de negocio, por tanto, se apoya en el marketing de afiliados. Las herramientas que el autor prefiere en general son PyTorch, Python, React y TypeScript.
 
 > chrisemoody.com
 
