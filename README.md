@@ -1,6 +1,6 @@
 <div align="center">
   
-# Nombre del proyecto nuestro
+# Popgot
 |  Nombre | Apellido | 
 |---------|----------|
 |Ricardo     | Toro|
@@ -9,13 +9,7 @@
 |Esteban   | Romero  |
 </div>
 
-***Idea del proyecto***
 
-***Porque es importante en la ciencia de datos***
-
-> *Este proyecto nuestro esta relacionado al proyecto de Chris Moody llamado "Popgot"*
-
-# Popgot
 ***Descripción del proyecto***
 
 Popgot es un proyecto hecho por Chris Moody que es un agente de compras con IA que ahorra dinero a familias y pequeñas empresas en lo basico.
