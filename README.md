@@ -71,6 +71,8 @@ El agente verifica esos requisitos en miles de millones de productos, de modo qu
 - Genera guias de compras que muestran ahorros del 40%+
 
 ***Arquitectura tecnologica***
+
+
 El backend corre sobre Cloudflare Workers, Supabase, ClickHouse y Modal, que soportan los rastreos masivos, la clasificación estructurada con LLMs y las integraciones de afiliados. El modelo de negocio, por tanto, se apoya en el marketing de afiliados. Las herramientas que el autor prefiere en general son PyTorch, Python, React y TypeScript.
 
 > chrisemoody.com
